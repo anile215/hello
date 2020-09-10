@@ -1,0 +1,29 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v168)
+"   /d/sagan-master
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+sagan-master/
+| .git/
+| sagan-master/
+| | .settings/
+| | concourse/
+| | gradle/
+| | sagan-client/
+| | sagan-renderer/
+| | sagan-site/
+| | style/
+| | util/
+| | wiki/
+| | gradlew*
+| | .gitignore
+| | .gitmodules
+| | CONTRIBUTING.md
+| | LICENSE.md
+| | NOTICE.txt
+| | README.md
+| | gradlew.bat
+| | settings.gradle
